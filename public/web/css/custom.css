@@ -1,0 +1,37 @@
+/**
+ *
+ * You can write your CSS code here, DO NOT touch the default JavaScript file
+ * because it will make it harder for you to update.
+ * 
+ */
+
+/*# sourceMappingURL=custom.css.map */
+
+
+.navbar-bg{
+    background-color: black;
+} 
+
+.main-content-home {
+   
+    padding-top: 80px;
+    width: 100%;
+    position: relative;
+}
+
+.bg-c-black{
+    background: black;
+}
+
+.navbar-home{
+    left: 50px;
+}
+
+.side-menus.active{
+ 
+}
+li.side-menus a.nav-link{
+    border-left: 5px solid #ffc107 ;
+    border-bottom: 1px solid #ffc107;
+}
+
